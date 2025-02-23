@@ -12,4 +12,3 @@ This script dynamically renames files based on their prefix (e.g., SLD, SSR, VC 
 
 Rename.bat
 Generates a text file and Exports the folders/files name in current directory to that text file
-![image](https://github.com/user-attachments/assets/5037f387-17d3-46bb-9762-28f31d2be098)
